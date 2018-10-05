@@ -20,6 +20,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Beadle''s Dime Song Book No. 5
 
   A Collection of New and Popular Comic and Sentimental Songs'
